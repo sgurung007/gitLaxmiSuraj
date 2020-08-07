@@ -5,5 +5,6 @@ public class DispalyNameSuraj {
 		System.out.println("this is first line");
 		System.out.println("this is second line");
 		System.out.println("suraj1 this is suraj1");
+		System.out.println("suraj2 this is suraj2");
 	}
 }
